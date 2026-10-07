@@ -1,4 +1,4 @@
-# No AI program was used as help this assignment
+# No AI program was used as help for this assignment. I like to keep CoPilot turned off. At one point, I turned it on to explain to me why one of my lines was being flagged, but I rejected its modiification. Wasn't sure whether to report that or not!
 
 # Function to input files
 def input_files():

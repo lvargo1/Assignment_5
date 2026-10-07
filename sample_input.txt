@@ -1,42 +1,33 @@
 GRAD
 Old Jane
-76
+10
 GRAD
 Old David
-83
+20
 GRAD
 Old Anne
-97
+30
 GRAD
 Old John
-67
+40
 GRAD
 Old Peter
-37
+50
 GRAD
 Old Beth
-81
+60
 GRAD
 Old Alice
-89
+70
 UNDERGRAD
 Young Jane
-81
+80
 UNDERGRAD
 Young David
-71
+90
 UNDERGRAD
 Young Anne
-67
-UNDERGRAD
-Young John
-99
-UNDERGRAD
-Young Peter
-45
-UNDERGRAD
-Young Beth
-91
-UNDERGRAD
-Young Alice
-63
+100
+High School
+Young Young Anne
+101

@@ -1,28 +1,20 @@
 Old Jane
-L
+F
 Old David
-P
+F
 Old Anne
-H
+F
 Old John
 F
 Old Peter
 F
 Old Beth
-P
+F
 Old Alice
-P
+L
 Young Jane
 B
 Young David
-C
+A
 Young Anne
-D
-Young John
 A
-Young Peter
-F
-Young Beth
-A
-Young Alice
-D
